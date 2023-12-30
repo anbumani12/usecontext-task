@@ -1,1 +1,1 @@
-I have completed the task for React Usecontext Task, and I uploaded the front-end source code and the front-end deployed url.
+I have completed the task for React Usecontext Task, and I uploaded the front-end source code and the front-end deployed URL.
